@@ -1,4 +1,4 @@
-# Python and Kubernetes
+# Kubernetes and Python
 
 ## Reference
 https://github.com/philspokas/deploying-kubernetes/blob/main/create-cluster.ps1
